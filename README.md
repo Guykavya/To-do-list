@@ -16,14 +16,6 @@ This project allows you to create, manage, save, and load task lists directly in
 🧹 Simple clear screen + pause for smooth UX
 🖥️ Works on Windows (cmd / PowerShell)
 
-=======================================================
-                    TO DO LIST
-=======================================================
-[1] Create New Task File
-[2] Load Task File
-[3] Exit Program
-Enter your choice ->
-
 📖 Usage
 
 Create a new task file
